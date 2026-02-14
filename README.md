@@ -1,15 +1,13 @@
-# Hi there, I'm Alex Johnson! 👋
+# Hi there, I'm MASTIGAS ! 👋
 
-## 💻 Full Stack Developer | 🎯 Open Source Enthusiast | 🚀 Tech Blogger
+## 💻 Full Stack Developer | 🎯 Open Source Enthusiast | 
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🌟 About Me
-- 🔭 I'm currently working on **E-commerce Platform with MERN Stack**
 - 🌱 I'm currently learning **TypeScript and Next.js 14**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
-- 📫 How to reach me: **alex.johnson@email.com**
+- 💬 Ask me about **JavaScript, React, Node.js*
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 ### 🛠️ Tech Stack
@@ -66,9 +64,7 @@
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
+  
   <a href="https://dev.to/yourusername">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
@@ -77,9 +73,7 @@
   </a>
 </p>
 
-### 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yourusername)
 
 ---
 
