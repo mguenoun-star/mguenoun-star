@@ -1,16 +1,92 @@
-## holla 👋
+# Hi there, I'm Alex Johnson! 👋
 
-<!--
-**mguenoun-star/mguenoun-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Full Stack Developer | 🎯 Open Source Enthusiast | 🚀 Tech Blogger
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 About Me
+- 🔭 I'm currently working on **E-commerce Platform with MERN Stack**
+- 🌱 I'm currently learning **TypeScript and Next.js 14**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📫 How to reach me: **alex.johnson@email.com**
+- ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+#### Database & Tools
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| 🛒 **E-Shop Platform** | Full-featured e-commerce with payment integration | MERN Stack | [Repo](https://github.com/yourusername/eshop) |
+| 📱 **TaskFlow App** | Productivity app with real-time updates | React Native + Firebase | [Repo](https://github.com/yourusername/taskflow) |
+| 🤖 **AI ChatBot** | Customer service chatbot with NLP | Python + TensorFlow | [Repo](https://github.com/yourusername/chatbot) |
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [10 JavaScript Tips You Need to Know in 2024](https://dev.to/yourusername/post1)
+- [Building Scalable APIs with Node.js](https://dev.to/yourusername/post2)
+- [Mastering React Hooks: A Complete Guide](https://dev.to/yourusername/post3)
+<!-- BLOG-POST-LIST:END -->
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+### 🎵 Now Playing on Spotify
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>⭐️ From [yourusername](https://github.com/yourusername)</i>
+</p>
