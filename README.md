@@ -39,13 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| 🛒 **E-Shop Platform** | Full-featured e-commerce with payment integration | MERN Stack | [Repo](https://github.com/yourusername/eshop) |
-| 📱 **TaskFlow App** | Productivity app with real-time updates | React Native + Firebase | [Repo](https://github.com/yourusername/taskflow) |
-| 🤖 **AI ChatBot** | Customer service chatbot with NLP | Python + TensorFlow | [Repo](https://github.com/yourusername/chatbot) |
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
