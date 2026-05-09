@@ -28,24 +28,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+### 🗣️ Languages / 🎙️ Timeryin
+| Language | Proficiency |
+| :--- | :--- |
+| **Tamazight** | ♓ Native / Mother Tongue |
+| **Arabic** | 🇩🇿 Native / Fluent |
+| **French** | 🇫🇷 Professional |
+| **English** | 🇬🇧 Professional |
 
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [10 JavaScript Tips You Need to Know in 2024](https://dev.to/yourusername/post1)
-- [Building Scalable APIs with Node.js](https://dev.to/yourusername/post2)
-- [Mastering React Hooks: A Complete Guide](https://dev.to/yourusername/post3)
-<!-- BLOG-POST-LIST:END -->
+
 
 ### 🤝 Connect With Me
 
