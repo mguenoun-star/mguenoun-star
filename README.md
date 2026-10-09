@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🌟 About Me
-- 🌱 I'm currently learning **TypeScript and Next.js 14**
+- 🌱 I'm currently learning **DATA ANALYSIS**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js*
+- 💬 Ask me about **JavaScript, React, OOP ,Java ,c*
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!**
 
 ### 🛠️ Tech Stack
